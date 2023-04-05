@@ -1,5 +1,7 @@
 # vue3_ts
 
+后台管理系统 采用Vue Typescript pinia element-plus vite技术栈
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
