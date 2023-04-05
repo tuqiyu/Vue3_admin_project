@@ -1,0 +1,9 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.node.json",
+  "include": ["vite.config.*", "vitest.config.*", "cypress.config.*", "playwright.config.*"],
+  "compilerOptions": {
+    /* 之后是否合并到tsconfig.json文件 */
+    "composite": true,
+    "types": ["node"]
+  }
+}
