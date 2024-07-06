@@ -5,5 +5,5 @@
     /* 之后是否合并到tsconfig.json文件 */
     "composite": true,
     "types": ["node"]
-  }
+  },
 }
