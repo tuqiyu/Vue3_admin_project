@@ -8,6 +8,7 @@
 
 <script setup lang="ts">
 import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
+// 测试
 </script>
 
 <style lang="less" scoped>
